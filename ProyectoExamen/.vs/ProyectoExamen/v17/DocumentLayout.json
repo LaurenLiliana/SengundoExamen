@@ -3,52 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\database\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\database\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\services\\prestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\services\\prestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\services\\interfaces\\iprestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\services\\interfaces\\iprestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\dtos\\solicitudprestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\dtos\\solicitudprestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\database\\entities\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\database\\entities\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\services\\planamortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\services\\planamortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\database\\entities\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\database\\entities\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\dtos\\plandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\dtos\\plandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\database\\entities\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\database\\entities\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\database\\entities\\planprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\database\\entities\\planprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\database\\entities\\planamortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\database\\entities\\planamortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\database\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\database\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\dtos\\planamortizaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\dtos\\planamortizaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\controllers\\prestamocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\services\\interfaces\\iplanamortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\services\\interfaces\\iplanamortizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\helpers\\calculadoracuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\helpers\\calculadoracuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\services\\interfaces\\iprestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\services\\interfaces\\iprestamoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\services\\interfaces\\iclienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\dtos\\prestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\dtos\\prestamodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\proyectoexamen.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\proyectoexamen.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|c:\\users\\laure\\onedrive\\documentos\\examen2\\proyectoexamen\\proyectoexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE01E5-59E3-4F5B-B647-8652A86FB52D}|ProyectoExamen\\ProyectoExamen.csproj|solutionrelative:proyectoexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,8 +86,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanAmortizacion.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Services\\PlanAmortizacion.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Services\\PlanAmortizacion.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Services\\PlanAmortizacion.cs",
+              "RelativeToolTip": "ProyectoExamen\\Services\\PlanAmortizacion.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAewEsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T04:40:06.799Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -68,140 +108,118 @@
               "RelativeDocumentMoniker": "ProyectoExamen\\Services\\PrestamoService.cs",
               "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Services\\PrestamoService.cs",
               "RelativeToolTip": "ProyectoExamen\\Services\\PrestamoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwDYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T01:02:54.883Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Prestamo.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Database\\Entities\\Prestamo.cs",
-              "RelativeDocumentMoniker": "ProyectoExamen\\Database\\Entities\\Prestamo.cs",
-              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Database\\Entities\\Prestamo.cs*",
-              "RelativeToolTip": "ProyectoExamen\\Database\\Entities\\Prestamo.cs*",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABwAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T23:40:51.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SolicitudPrestamoDto.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Dtos\\SolicitudPrestamoDto.cs",
-              "RelativeDocumentMoniker": "ProyectoExamen\\Dtos\\SolicitudPrestamoDto.cs",
-              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Dtos\\SolicitudPrestamoDto.cs*",
-              "RelativeToolTip": "ProyectoExamen\\Dtos\\SolicitudPrestamoDto.cs*",
-              "ViewState": "AQIAABMAAAAAAAAAAAAAABkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T23:59:32.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPrestamoService.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Services\\Interfaces\\IPrestamoService.cs",
-              "RelativeDocumentMoniker": "ProyectoExamen\\Services\\Interfaces\\IPrestamoService.cs",
-              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Services\\Interfaces\\IPrestamoService.cs",
-              "RelativeToolTip": "ProyectoExamen\\Services\\Interfaces\\IPrestamoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T00:04:37.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PrestamoController.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Controllers\\PrestamoController.cs",
-              "RelativeDocumentMoniker": "ProyectoExamen\\Controllers\\PrestamoController.cs",
-              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Controllers\\PrestamoController.cs*",
-              "RelativeToolTip": "ProyectoExamen\\Controllers\\PrestamoController.cs*",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T00:18:12.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T01:02:54.883Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "PlanAmortizacion.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Database\\Entities\\PlanAmortizacion.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Database\\Entities\\PlanAmortizacion.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Database\\Entities\\PlanAmortizacion.cs",
+              "RelativeToolTip": "ProyectoExamen\\Database\\Entities\\PlanAmortizacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T04:44:24.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlanAmortizacionDto.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Dtos\\PlanAmortizacionDto.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Dtos\\PlanAmortizacionDto.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Dtos\\PlanAmortizacionDto.cs",
+              "RelativeToolTip": "ProyectoExamen\\Dtos\\PlanAmortizacionDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T04:42:45.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Startup.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Startup.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Startup.cs",
+              "RelativeToolTip": "ProyectoExamen\\Startup.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAnwCEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T04:56:55.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ApiDbContext.cs",
               "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Database\\Entities\\ApiDbContext.cs",
               "RelativeDocumentMoniker": "ProyectoExamen\\Database\\Entities\\ApiDbContext.cs",
               "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Database\\Entities\\ApiDbContext.cs",
               "RelativeToolTip": "ProyectoExamen\\Database\\Entities\\ApiDbContext.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAWwB8AAAAAAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAWwBkAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T23:33:36.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T23:33:36.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Database\\Entities\\Prestamo.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Database\\Entities\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Database\\Entities\\Prestamo.cs",
+              "RelativeToolTip": "ProyectoExamen\\Database\\Entities\\Prestamo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T23:40:51.033Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Program.cs",
-              "RelativeDocumentMoniker": "ProyectoExamen\\Program.cs",
-              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Program.cs*",
-              "RelativeToolTip": "ProyectoExamen\\Program.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T00:19:18.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PlanDto.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Dtos\\PlanDto.cs",
-              "RelativeDocumentMoniker": "ProyectoExamen\\Dtos\\PlanDto.cs",
-              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Dtos\\PlanDto.cs*",
-              "RelativeToolTip": "ProyectoExamen\\Dtos\\PlanDto.cs*",
-              "ViewState": "AQIAABAAAAAAAAAAAAAAABkAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T00:02:59.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlanPrestamo.cs",
-              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Database\\Entities\\PlanPrestamo.cs",
-              "RelativeDocumentMoniker": "ProyectoExamen\\Database\\Entities\\PlanPrestamo.cs",
-              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Database\\Entities\\PlanPrestamo.cs",
-              "RelativeToolTip": "ProyectoExamen\\Database\\Entities\\PlanPrestamo.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T23:54:10.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Database\\Entities\\Cliente.cs",
               "RelativeDocumentMoniker": "ProyectoExamen\\Database\\Entities\\Cliente.cs",
-              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Database\\Entities\\Cliente.cs*",
-              "RelativeToolTip": "ProyectoExamen\\Database\\Entities\\Cliente.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAWAAAA",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Database\\Entities\\Cliente.cs",
+              "RelativeToolTip": "ProyectoExamen\\Database\\Entities\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-26T23:37:42.783Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Services\\ClienteService.cs",
+              "RelativeToolTip": "ProyectoExamen\\Services\\ClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:01:41.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrestamoController.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Controllers\\PrestamoController.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Controllers\\PrestamoController.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Controllers\\PrestamoController.cs",
+              "RelativeToolTip": "ProyectoExamen\\Controllers\\PrestamoController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:18:12.309Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ProyectoExamen.http",
-              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen.http",
-              "RelativeDocumentMoniker": "ProyectoExamen\\ProyectoExamen.http",
-              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen.http",
-              "RelativeToolTip": "ProyectoExamen\\ProyectoExamen.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-07-27T00:19:17.894Z",
-              "EditorCaption": ""
+              "Title": "ClienteDto.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Dtos\\ClienteDto.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Dtos\\ClienteDto.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Dtos\\ClienteDto.cs",
+              "RelativeToolTip": "ProyectoExamen\\Dtos\\ClienteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T04:41:22.796Z"
             },
             {
               "$type": "Document",
@@ -211,10 +229,93 @@
               "RelativeDocumentMoniker": "ProyectoExamen\\appsettings.json",
               "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\appsettings.json",
               "RelativeToolTip": "ProyectoExamen\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-26T23:29:53.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T23:29:53.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPlanAmortizacion.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Services\\Interfaces\\IPlanAmortizacion.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Services\\Interfaces\\IPlanAmortizacion.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Services\\Interfaces\\IPlanAmortizacion.cs",
+              "RelativeToolTip": "ProyectoExamen\\Services\\Interfaces\\IPlanAmortizacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T04:54:13.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CalculadoraCuota.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Helpers\\CalculadoraCuota.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Helpers\\CalculadoraCuota.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Helpers\\CalculadoraCuota.cs",
+              "RelativeToolTip": "ProyectoExamen\\Helpers\\CalculadoraCuota.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T05:26:35.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IPrestamoService.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Services\\Interfaces\\IPrestamoService.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Services\\Interfaces\\IPrestamoService.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Services\\Interfaces\\IPrestamoService.cs",
+              "RelativeToolTip": "ProyectoExamen\\Services\\Interfaces\\IPrestamoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:04:37.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Services\\Interfaces\\IClienteService.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Services\\Interfaces\\IClienteService.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Services\\Interfaces\\IClienteService.cs",
+              "RelativeToolTip": "ProyectoExamen\\Services\\Interfaces\\IClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T04:45:51.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PrestamoDto.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Dtos\\PrestamoDto.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Dtos\\PrestamoDto.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Dtos\\PrestamoDto.cs",
+              "RelativeToolTip": "ProyectoExamen\\Dtos\\PrestamoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T04:41:48.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProyectoExamen.http",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen.http",
+              "RelativeDocumentMoniker": "ProyectoExamen\\ProyectoExamen.http",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\ProyectoExamen.http",
+              "RelativeToolTip": "ProyectoExamen\\ProyectoExamen.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-27T00:19:17.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoExamen\\Program.cs",
+              "ToolTip": "C:\\Users\\laure\\OneDrive\\Documentos\\Examen2\\ProyectoExamen\\ProyectoExamen\\Program.cs",
+              "RelativeToolTip": "ProyectoExamen\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T00:19:18.912Z"
             }
           ]
         }

@@ -1,18 +1,12 @@
-﻿//namespace ProyectoExamen.Controllers
-//{
-//    public class LoanController
-//    {
-//    }
-//}
-
+﻿using Microsoft.AspNetCore.Mvc;
+using System.Threading.Tasks;
 using ProyectoExamen.Dtos;
 using ProyectoExamen.Services.Interfaces;
-using Microsoft.AspNetCore.Mvc;
 
 namespace ProyectoExamen.Controllers
 {
-    [Route("api/[controller]")]
     [ApiController]
+    [Route("api/prestamos")]
     public class PrestamoController : ControllerBase
     {
         private readonly IPrestamoService _prestamoService;
@@ -23,17 +17,21 @@ namespace ProyectoExamen.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreatePrestamo([FromBody] SolicitudPrestamo solicitudPrestamoDto)
+        public async Task<IActionResult> CrearPrestamo([FromBody] PrestamoDto prestamoDto)
         {
-            await _prestamoService.CreatePrestamoAsync(solicitudPrestamoDto);
-            return Ok(new { message = "El prestammo fue creado correctamente." });
+            var prestamo = await _prestamoService.CrearPrestamoAsync(prestamoDto);
+            return CreatedAtAction(nameof(ObtenerPrestamoPorId), new { id = prestamo.Id }, prestamo);
         }
 
-        [HttpGet("{clienteId}")]
-        public async Task<IActionResult> GetPlan(int clienteId)
+        [HttpGet("{id}")]
+        public async Task<IActionResult> ObtenerPrestamoPorId(int id)
         {
-            var PlanPrestamo = await _prestamoService.GetPlanByClienteIdAsync(clienteId);
-            return Ok(PlanPrestamo);
+            var prestamo = await _prestamoService.ObtenerPrestamoPorIdAsync(id);
+            if (prestamo == null)
+            {
+                return NotFound();
+            }
+            return Ok(prestamo);
         }
     }
 }

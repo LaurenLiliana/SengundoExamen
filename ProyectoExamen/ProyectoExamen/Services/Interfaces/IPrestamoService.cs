@@ -1,11 +1,12 @@
 ﻿using ProyectoExamen.Dtos;
+using ProyectoExamen.Database.Entities;
 
 namespace ProyectoExamen.Services.Interfaces
 {
     public interface IPrestamoService
     {
-        Task CreatePrestamoAsync(SolicitudPrestamoDto solicitudPrestamoDto);
-        Task<PlanDto> GetPlanByClienteIdAsync(int clienteId);
+        Task<Prestamo> CrearPrestamoAsync(PrestamoDto prestamoDto);
+        Task<Prestamo> ObtenerPrestamoPorIdAsync(int id);
     }
 }
 
