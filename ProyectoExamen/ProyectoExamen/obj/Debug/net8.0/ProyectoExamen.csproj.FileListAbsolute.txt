@@ -1,0 +1,7 @@
+C:\Users\laure\OneDrive\Documentos\Examen2\ProyectoExamen\ProyectoExamen\obj\Debug\net8.0\ProyectoExamen.csproj.AssemblyReference.cache
+C:\Users\laure\OneDrive\Documentos\Examen2\ProyectoExamen\ProyectoExamen\obj\Debug\net8.0\ProyectoExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laure\OneDrive\Documentos\Examen2\ProyectoExamen\ProyectoExamen\obj\Debug\net8.0\ProyectoExamen.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Documentos\Examen2\ProyectoExamen\ProyectoExamen\obj\Debug\net8.0\ProyectoExamen.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Documentos\Examen2\ProyectoExamen\ProyectoExamen\obj\Debug\net8.0\ProyectoExamen.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Documentos\Examen2\ProyectoExamen\ProyectoExamen\obj\Debug\net8.0\ProyectoExamen.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\laure\OneDrive\Documentos\Examen2\ProyectoExamen\ProyectoExamen\obj\Debug\net8.0\ProyectoExamen.MvcApplicationPartsAssemblyInfo.cache
